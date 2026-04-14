@@ -1,0 +1,134 @@
+/* Navbar styles */
+.navbar {
+  background-color: rgb(99, 191, 221);
+  border-radius: 10px;
+}
+
+.custom-navbar {
+  background-color: #e4d0ce; /* rustige lichtgrijze achtergrond */
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.custom-link {
+  color: #333 !important;      /* standaard kleur */
+  transition: color 0.3s ease;
+  text-transform: uppercase;
+}
+
+.custom-link:hover {
+  color: #cc6600 !important;   /* hover kleur */
+  text-decoration: none;
+}
+
+.custom-link.active {
+  color: #ff8800 !important;   /* actieve link kleur */
+  font-weight: 700;
+  border-bottom: 2px solid #ff8800;
+}
+
+
+
+/* HomePage styles */
+
+.header-text {
+    color: #cc6600;
+}
+
+
+
+.info-col {
+ background-color: #e4d0ce;
+}
+
+
+.info-col table,
+.info-col tbody,
+.info-col td {
+  background-color: #e4d0ce !important; /* !important overrulet Bootstrap */
+  border: none; /* optioneel: verwijder randen als je dat wilt */
+}
+
+/* DienstenPage styles */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Resultaten styles */
+
+
+.btn-te-koop {
+    background-color: #23201f;
+    border: none;
+    color: whitesmoke;
+    margin-bottom: 1rem;
+}
+
+
+.resultaat-foto {
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+}
+.resultaat-foto:hover {
+  transform: scale(1.03);
+}
+
+.active-filter {
+  background-color: #000;
+  color: #fff;
+  border: 2px solid #000;
+}
+
+.btn-outline-dark {
+  border: 2px solid #000;
+  background-color: transparent;
+  color: #000;
+}
+
+
+
+
+
+
+
+
+/* Stoffen styles */
+
+/* Zorgt dat alle logo's even groot en netjes zijn */
+.supplier-logo {
+  height: 100px;
+  width: 100%;
+  object-fit: contain;
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease;
+}
+
+.supplier-logo:hover {
+  transform: scale(1.05);
+}
+
+/* Stijl voor de naam onder het logo */
+.supplier-name {
+  margin-top: 0.5rem;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #333;
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+}
