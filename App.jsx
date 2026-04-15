@@ -18,12 +18,12 @@ function App() {
           
           
           <Routes>
-            <Route path="/" element={<HomePage />} />
-            <Route path="/over-ons" element={<OverOnsPage />} />
-            <Route path="/te-koop" element={<TeKoopPage />} />
-            <Route path='/resultaten' element={<ResultatenPage />} />
-            <Route path='/stoffen' element={<StoffenPage />} />
-            <Route path='/onze-diensten' element={<DienstenPage />} />
+            <Route path="/Website-meubelstoffeerderij/" element={<HomePage />} />
+            <Route path="/Website-meubelstoffeerderij/over-ons" element={<OverOnsPage />} />
+            <Route path="/Website-meubelstoffeerderij/te-koop" element={<TeKoopPage />} />
+            <Route path='/Website-meubelstoffeerderij/resultaten' element={<ResultatenPage />} />
+            <Route path='/Website-meubelstoffeerderij/stoffen' element={<StoffenPage />} />
+            <Route path='/Website-meubelstoffeerderij/onze-diensten' element={<DienstenPage />} />
           </Routes>
         </div>
         

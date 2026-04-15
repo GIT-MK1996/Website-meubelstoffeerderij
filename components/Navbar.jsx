@@ -25,32 +25,32 @@ export default function Navbar() {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav w-100 justify-content-between text-center">
             <li className="nav-item">
-              <NavLink className="nav-link custom-link" to="/">
+              <NavLink className="nav-link custom-link" to="/Website-meubelstoffeerderij/">
                 Home
               </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link custom-link" to="/onze-diensten">
+              <NavLink className="nav-link custom-link" to="/Website-meubelstoffeerderij/onze-diensten">
                 Onze diensten
               </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link custom-link" to="/resultaten">
+              <NavLink className="nav-link custom-link" to="/Website-meubelstoffeerderij/resultaten">
                 Resultaten
               </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link custom-link" to="/stoffen">
+              <NavLink className="nav-link custom-link" to="/Website-meubelstoffeerderij/stoffen">
                 Stoffen
               </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link custom-link" to="/over-ons">
+              <NavLink className="nav-link custom-link" to="/Website-meubelstoffeerderij/over-ons">
                 Over ons
               </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link custom-link" to="/te-koop">
+              <NavLink className="nav-link custom-link" to="/Website-meubelstoffeerderij/te-koop">
                 Te koop
               </NavLink>
             </li>

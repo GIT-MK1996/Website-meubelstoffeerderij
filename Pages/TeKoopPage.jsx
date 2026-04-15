@@ -21,7 +21,7 @@ export default function TeKoopPage() {
         className="rounded mb-2"
         style={{
           backgroundImage:
-            "url('/fotos/te-koop/fotoIjs.jpg')",
+            "url('/Website-meubelstoffeerderij/Fotos/te-koop/fotoIjs.jpg')",
           backgroundSize: "cover",
           backgroundPosition: "center",
           height: "300px",
