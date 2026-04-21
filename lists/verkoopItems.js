@@ -3,8 +3,7 @@
     {
       title: "Vintage stoel blauw",
       images: [
-        "/Fotos/te-koop/stoel001.JPG",
-        "/Fotos/te-koop/stoel001 (1).JPG",
+        "/Fotos/te-koop/stoel001.JPG",      
         "/Fotos/te-koop/stoel001 (2).JPG",  
         "/Fotos/te-koop/stoel001 (3).JPG",
         "/Fotos/te-koop/stoel001 (4).JPG",
@@ -17,11 +16,14 @@
     {
        title: "stoel",
       images: [
-        "/Fotos/te-koop/stoel002 (1).JPG",
-        "/Fotos/te-koop/stoel002 (2).JPG",
-        "/Fotos/te-koop/stoel002 (3).JPG",
-        "/Fotos/te-koop/stoel002 (4).JPG",
-
+        "/Fotos/te-koop/stoel002.JPG",
+        "/Fotos/te-koop/stoel002  (1).JPG",
+        "/Fotos/te-koop/stoel002  (2).JPG",
+        "/Fotos/te-koop/stoel002  (3).JPG",
+        "/Fotos/te-koop/stoel002  (4).JPG",
+        "/Fotos/te-koop/stoel002  (5).JPG",
+        "/Fotos/te-koop/stoel002  (6).JPG",
+        "/Fotos/te-koop/stoel002  (7).JPG",
       ],
       beschrijving: "Blauw fluweel, houten poot. Gerenoveerd.",
       prijs: "€200",
