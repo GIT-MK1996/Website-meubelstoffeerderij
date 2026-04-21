@@ -6,27 +6,27 @@ const fabricSuppliers = [
   {
     name: 'Ohmann leather',
     url: 'https://www.ohmannleather.com/collectie/',
-    img: '/Website-meubelstoffeerderij/Fotos/logos/ohman-leather.jpg',
+    img: '/Fotos/logos/ohman-leather.jpg',
   },
   {
     name: 'Nya nordiska',
     url: 'https://www.nya.com/en/product-catalogue/',
-    img: '/Website-meubelstoffeerderij/Fotos/logos/nya-nordiska.jpg',
+    img: '/Fotos/logos/nya-nordiska.jpg',
   },
   {
     name: 'De ploeg',
     url: 'https://deploeg.com/collectie/?f-stof=nieuw',
-    img: '/Website-meubelstoffeerderij/Fotos/logos/de-ploeg.jpg',
+    img: '/Fotos/logos/de-ploeg.jpg',
   },
   {
     name: 'Kvadrat',
     url: 'https://www.kvadrat.dk/nl/products/meubelstoffen?srsltid=AfmBOorV0taTrV6UGkFe7zM_xBy--LVm5KHxWoScEmSq6i9SIYcBZ5SR',
-    img: '/Website-meubelstoffeerderij/Fotos/logos/Kvadrat-logo.jpg',
+    img: '/Fotos/logos/Kvadrat-logo.jpg',
   },
   {
     name: 'Danish art weaving',
     url: 'https://danishartweaving.com/daw/produkter/moebelstof',
-    img: '/Website-meubelstoffeerderij/Fotos/logos/danish-art-weaving.jpg'
+    img: '/Fotos/logos/danish-art-weaving.jpg'
   }
 ];
 

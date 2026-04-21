@@ -3,11 +3,10 @@
     {
       title: "Vintage stoel blauw",
       images: [
-        "/Website-meubelstoffeerderij/Fotos/te-koop/stoel001.JPG",
-        "/Website-meubelstoffeerderij/Fotos/te-koop/stoel001 (1).JPG",
-        "/Website-meubelstoffeerderij/Fotos/te-koop/stoel001 (2).JPG",  
-        "/Website-meubelstoffeerderij/Fotos/te-koop/stoel001 (3).JPG",
-        "/Website-meubelstoffeerderij/Fotos/te-koop/stoel001 (4).JPG",
+        "/Fotos/te-koop/stoel001.JPG",      
+        "/Fotos/te-koop/stoel001 (2).JPG",  
+        "/Fotos/te-koop/stoel001 (3).JPG",
+        "/Fotos/te-koop/stoel001 (4).JPG",
 
       
       ],
@@ -17,11 +16,14 @@
     {
        title: "stoel",
       images: [
-        "/Website-meubelstoffeerderij/Fotos/te-koop/stoel002 (1).JPG",
-        "/Website-meubelstoffeerderij/Fotos/te-koop/stoel002 (2).JPG",
-        "/Website-meubelstoffeerderij/Fotos/te-koop/stoel002 (3).JPG",
-        "/Website-meubelstoffeerderij/Fotos/te-koop/stoel002 (4).JPG",
-
+        "/Fotos/te-koop/stoel002.JPG",
+        "/Fotos/te-koop/stoel002  (1).JPG",
+        "/Fotos/te-koop/stoel002  (2).JPG",
+        "/Fotos/te-koop/stoel002  (3).JPG",
+        "/Fotos/te-koop/stoel002  (4).JPG",
+        "/Fotos/te-koop/stoel002  (5).JPG",
+        "/Fotos/te-koop/stoel002  (6).JPG",
+        "/Fotos/te-koop/stoel002  (7).JPG",
       ],
       beschrijving: "Blauw fluweel, houten poot. Gerenoveerd.",
       prijs: "€200",
@@ -29,10 +31,10 @@
     {
        title: "Vintage stoel blauw",
       images: [
-        "/Website-meubelstoffeerderij/Fotos/te-koop/stoel003 (1).JPG",
-        "/Website-meubelstoffeerderij/Fotos/te-koop/stoel003 (2).JPG",  
-        "/Website-meubelstoffeerderij/Fotos/te-koop/stoel003 (3).JPG",
-        "/Website-meubelstoffeerderij/Fotos/te-koop/stoel003 (4).JPG",
+        "/Fotos/te-koop/stoel003 (1).JPG",
+        "/Fotos/te-koop/stoel003 (2).JPG",  
+        "/Fotos/te-koop/stoel003 (3).JPG",
+        "/Fotos/te-koop/stoel003 (4).JPG",
         
       ],
       beschrijving: "Blauw fluweel, houten poot. Gerenoveerd.",
@@ -43,7 +45,7 @@
     {
       title: "Retro bank groen",
       images: [ 
-        "/Website-meubelstoffeerderij/Fotos/te-koop/bank-groen.jpg", ],
+        "/Fotos/te-koop/bank-groen.jpg", ],
       beschrijving: "3-zits, donkergroen velours.",
       prijs: "€340",
     },
